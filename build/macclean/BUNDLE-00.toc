@@ -1,0 +1,3 @@
+([('macclean',
+   '/Users/fajarpratama/Project/mac-cleaner/dist/macclean',
+   'EXECUTABLE')],)
